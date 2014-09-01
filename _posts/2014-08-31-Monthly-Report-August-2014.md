@@ -15,7 +15,7 @@ so I decided to take the time to chronicle my life on the tenure-track.
 Hereby, this is my first monthly report. 
 
 I have spent a month as an Assistant Professor getting involved in a slew of things I have never experienced before: 
-setting up my own lab, email correspondence with students who expressed interest in joining my group 
+setting up my own lab, email correspondence with students who expressed interest in joining my group, 
 and attending a monthly faculty meeting. 
 Indeed, the transition from graduate student to tenure-track faculty is a big change. 
 
