@@ -8,7 +8,7 @@ tags : [report]
 
 I am thrilled to announce that I have started a new lab at the University of Nebraska-Lincoln (UNL) since August 1, 2014. 
 My lab is located in the Department of Animal Science on the East Campus. 
-A brand new furniture has delivered in my office on the 26th. 
+Brand new furniture has delivered in my office on the 26th. 
 Along with my triple monitor iMac, I'm now equipped with minimal items I need to get my lab up and running.
 I thought it is a good idea to reflect upon what I have done each month, 
 so I decided to take the time to chronicle my life on the tenure-track. 
