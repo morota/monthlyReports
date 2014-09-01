@@ -26,7 +26,7 @@ Rohrer, Nonneman, Kuehn, and Bennett.
 The other one was the 10th World Congress on Genetics Applied to Livestock Production (WCGALP) 
 which took place in Vancouver between the 17th to 22nd of August. 
 This was my second in total and my first animal genetics conference I ever joined. 
-Introducing myself to new people as much as I can was on top in my to-do list and I also enjoyed catching up with my old friends. 
+Introducing myself to new people as much as I can was on the top of my to-do list and I also enjoyed catching up with my old friends. 
 I would like to thank the Gordon Dickerson fund ($1500) for supporting my travel to Vancouver. 
 
 I took an introductory training session for new hires hosted by CASNR on Wednesday August 13. 
@@ -38,4 +38,4 @@ Unfortunately, I was not able to participate in the New Faculty Orientation host
 Many things were going on during my first month at UNL and I would not been able to survive 
 without Google Calendar and Remember The Milk! 
 Last but not least, my first payday on the 29th saved my life as I was earning zilch since I finished my Ph.D. three months ago. 
-My tenure clock started ticking and I am going to enjoy my new job. 
+My tenure clock has started ticking and I am excited to dive into this new challenge. 
