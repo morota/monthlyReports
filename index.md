@@ -5,7 +5,7 @@ tagline: morota@UNL
 ---
 {% include JB/setup %}
 
-Monthly reports from my [group](http://morotalab.org) at UNL are also available at [Archive](http://morotalab.org/monthlyReports/archive.html).
+Monthly reports from my [group](http://morotalab.org) at UNL. 
 
 <ul class="posts">
   {% for post in site.posts %}
