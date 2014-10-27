@@ -15,7 +15,7 @@ would be a great avenue to reach a much larger audience outside of animal geneti
 What actually spurred me to compile a review paper is the fact that not many non-animal geneticists are aware of the whole-genome approach, 
 which is commonly employed in animal breeding. 
 The content of the review paper is mainly derived from the second chapter of my Ph.D. thesis and I tidied up the chapter for the journal after I moved to UNL in July. 
-While this work stemmed from my PhD work before I started running my own group, I was delighted to see the first paper with my new affiliation. I learned that my department pays a publication fee for each faculty member per year. 
+While this work stemmed from my Ph.D. work before I started running my own group, I was delighted to see the first paper with my new affiliation. I learned that my department pays a publication fee for each faculty member per year. 
 This policy greatly benefits our paper to be published as an open assess since the expenses for publishing in an open access journal can be high.
 
 As a new semester has been kicked off, I wanted to share some reflections of mine. 
