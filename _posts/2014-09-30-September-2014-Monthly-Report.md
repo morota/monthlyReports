@@ -48,8 +48,7 @@ We, including Deans, briefly introduced each other in the first luncheon.
 Apart from this event, there was an additional luncheon titled "A Conversation with the Vice Chancellor" for faculty who started after August 1, 2013.
 We visited with NU Vice President and IANR Vice Chancellor Ronnie Green on the 22nd from 11:30am to 1pm at the Nebraska East Union. 
 
-The first [Big Data Consortium](http://bigdata.unl.edu/home) meeting of this semester took place in Morrison Conference Room 169 on the 19th from 1pm to 2:30pm.  
-We meet monthly to discuss research in any areas of Big Data including methodology and applications for ever-increasingly large data sets. 
+The first [Big Data Consortium](http://bigdata.unl.edu/home) meeting of this semester took place in Morrison Conference Room 169 on the 19th from 1pm to 2:30pm. We meet monthly to discuss research in any areas of Big Data including methodology and applications for ever-increasingly large data sets. 
 On a related note, the Symposium on the Future of Big Data is scheduled on Thursday, November 6th and Friday, November 7th at the Nebraska Innovation Campus Conference Center. 
 I will report more on this UNL Big Data Initiative in November. 
 
