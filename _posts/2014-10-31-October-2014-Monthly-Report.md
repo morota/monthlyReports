@@ -27,7 +27,7 @@ It helped getting my head around a variety of funding mechanisms.
 Some of the topics discussed were also provided as e-Modules at the [NURAMP e-Learning Library](http://research.unl.edu/nuramp/nuramp-e-learning-library/). 
 
 Completing the first draft of my proposal for the Layman Seed Awards has occupied the half of my time in this month.
-This is one of the internal funding opportunities for tenure-track faculty supported by ORED. 
+This is one of the internal funding opportunities for tenure-track faculty. 
 Writing the proposal has reaffirmed the scope of my overall research program that I would like to establish at UNL and 
 facilitated refining the specifics of my research design. 
 That said, it is not so easy to spell out the new idea that ties in with my past work, 
