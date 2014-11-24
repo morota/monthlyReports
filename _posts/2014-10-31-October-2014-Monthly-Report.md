@@ -41,6 +41,7 @@ My role was Co-PI and the deadline of the proposal submission was October 24.
 
 I attended the New Faculty Success Network Luncheon on the 28th. 
 The theme of this month was "IANR Promotion and Tenure Process". Below are a few notes I jotted down on what Deans said. 
+
 * tenure is called a continuous appointment at IANR
 * pay attention to your annual evaluation
 * do not hesitate to talk to the Department head or Promotion and & Tenure committee if you have specific concerns in your annual evaluation 
