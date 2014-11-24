@@ -22,7 +22,7 @@ The names of participants were featured on [*Research News*](http://research.unl
 We will meet monthly beginning in the next month and I am grateful to be given the opportunity to learn grantsmanship. 
 
 In parallel to this, the Fall 2014 [NURAMP](http://research.unl.edu/nuramp/home/) workshop series was being offered by ORED. 
-I participated in the following two NURAMP sessions: Module 2. Proposal Preparation (Sep. 30) and Module 5. Administering the Award (Oct. 21). These workshops were engaging and spot on given my needs. 
+I participated in the following two NURAMP sessions: Module 2 - Proposal Preparation (Sep. 30) and Module 5 - Administering the Award (Oct. 21). These workshops were engaging and spot on given my needs. 
 It helped getting my head around a variety of funding mechanisms. 
 Some of the topics discussed were also provided as e-Modules at the [NURAMP e-Learning Library](http://research.unl.edu/nuramp/nuramp-e-learning-library/). 
 
