@@ -44,7 +44,7 @@ The theme of this month was "IANR Promotion and Tenure Process". Below are a few
 
 * tenure is called a continuous appointment at IANR
 * pay attention to your annual evaluation
-* do not hesitate to talk to the Department head or Promotion and & Tenure committee if you have specific concerns in your annual evaluation 
+* do not hesitate to talk to the Department head or Promotion and & Tenure committee if you have specific concerns in your annual evaluation
 
 I visited Bozeman, Montana to join 2014 [NCERA-225](http://nimss.umd.edu/lgu_v2/homepages/home.cfm?trackID=13956) meeting between October 22 and 24. 
 While I did not give any presentation this time, there were way more chances to talk with the bigwigs in my field 
