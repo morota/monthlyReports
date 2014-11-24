@@ -30,8 +30,8 @@ Completing the first draft of my proposal for the Layman Seed Awards has occupie
 This is one of the internal funding opportunities for tenure-track faculty. 
 Writing the proposal has reaffirmed the scope of my overall research program that I would like to establish at UNL and 
 facilitated refining the specifics of my research design. 
-That said, it is not so easy to spell out the new idea that ties in with my past work, 
-but make it achievable over a finite period of time. 
+That said, it is not so easy to spell out the new idea that ties in with my past work as well as 
+make it achievable over a finite period of time. 
 I felt a bit awkward writing science fiction (a.k.a., grant proposal) rather than science nonfiction (journal paper). 
 Of a related note, I worked as a team of faculty in 
 Civil Engineering and Food Science and Technology to submit our multi-disciplinary grant proposal to the 
