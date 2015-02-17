@@ -30,7 +30,7 @@ While we are still a very small group mainly consisted of my lab members, I hope
 The website is up and running on GitHub Pages with help from Jekyll Bootstrap and Twitter Bootstrap. 
 
 Also, I created new GitHub Pages to share 
-useful [reading lists]((http://morotalab.org/literature/) pertinent to quantitative genetics.
+useful [reading lists](http://morotalab.org/literature/) pertinent to quantitative genetics.
 I wrote two topics in January: Bayesian Methods and Variance Component Estimation. 
 These lists only scratch the surface of seminal papers in quantitative genetics, but hopefully these will be helpful to some of you.
 I aspire to include additional topics over the course of my career. 
