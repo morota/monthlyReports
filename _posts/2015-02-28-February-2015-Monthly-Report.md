@@ -17,8 +17,8 @@ This manuscript purports to raise awareness about alternative gene annotations a
 This is a follow-up to our recent [paper](http://dx.doi.org/10.1186/s12859-015-0453-z) published in BMC Bioinformatics (see more at  [2015 January monthly report](http://morotalab.org/monthlyReports/reports/2015/01/31/January-2015-Monthly-Report/)). 
 We submitted the paper to _Animal Genetics_, given the thought that the bottom line of the manuscript 
 fits perfectly into the scope of the journal. 
-On a related note, I have joined the International Society for Animal Genetics (ISAG), which owns _Animal Genetics_. I look forward to contributing to this academic society through
-presenting our work at biannual ISAG conferences and submitting our paper to _Animal Genetics_.
+On a related note, I have joined the International Society for Animal Genetics (ISAG), which owns _Animal Genetics_. I hope to contribute to this academic society through
+presenting our work at biannual ISAG conferences and submitting our papers to _Animal Genetics_.
 As a proud member of the ISAG, my only request is that they revise their policy to accept a manuscript written in LaTex. 
 
 Concurrently, I submitted an abstract of the MeSH paper to be considered for an oral presentation
