@@ -14,7 +14,7 @@ The main thrust of my talk was to emphasize that this is an exciting moment to c
 I have been learning a lot about funding opportunities and grantmanship along the way.
 I am pleased to announce that my Layman proposal has been funded from the Layman Fund held at the University of Nebraska Foundation.
 A one-month long effort of writing an internal grant proposal has converged to my first funding stream. 
-The process of writing a grant proposal reminded me of the struggle I had with writing a non-research paper [back then(http://morotalab.org/monthlyReports/reports/2014/11/30/November-2014-Monthly-Report/). 
+The process of writing a grant proposal reminded me of the struggle I had with writing a non-research paper [back then](http://morotalab.org/monthlyReports/reports/2014/11/30/November-2014-Monthly-Report/). 
 Without helpful supports from my colleagues, I would not be able to share the good news on this monthly report. The project start date is June 1, 2015 and it continues until May 31, 2016.
 I intend to use this funding as a stepping stone to secure external fundings.
 
