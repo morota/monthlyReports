@@ -6,7 +6,7 @@ tags : [2015]
 ---
 {% include JB/setup %}
 
-This month sees the publications of our two new papers, [An application of MeSH enrichment analysis in livestock](http://dx.doi.org/10.1111/age.12307) and [The causal meaning of genomic predictors and how it affects construction and comparison of genome-enabled selection models](http://dx.doi.org/10.1534/genetics.114.169490). 
+This month sees the publications of our two new papers: [An application of MeSH enrichment analysis in livestock](http://dx.doi.org/10.1111/age.12307) and [The causal meaning of genomic predictors and how it affects construction and comparison of genome-enabled selection models](http://dx.doi.org/10.1534/genetics.114.169490). 
 The former marked my first collaborative paper with colleagues at UNL as well as my first experience with Animal Genetics. 
 In terms of the journal, I was satisfied with the rapid turnaround time, which was the quickest among all the cases that I have experienced in my career. We submitted the manuscript on February 28th and it was accepted on April 2nd; hence, it only took 33 days from the submission to the acceptance stages! On the other hand, the latter paper required more than a year of effort to get accepted. 
 The time and effort has been definitely worthwhile for learning how to clear the bar for publication in Genetics. 
